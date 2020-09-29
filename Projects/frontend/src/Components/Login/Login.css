@@ -1,0 +1,21 @@
+.Login{
+
+    width: 25%;
+
+    margin: auto;
+    margin-top: 15em;  
+}
+
+.Gray{
+
+    color: white;
+    text-align: left;
+}
+
+.Button{
+    color: white;
+}
+
+body{
+    background-color: #686868 !important;
+}
